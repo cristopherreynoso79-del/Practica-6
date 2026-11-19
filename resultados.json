@@ -1,0 +1,32 @@
+{
+  "descarga_o_cache_s": 0.0011328000109642744,
+  "carga_s": 0.9860939000209328,
+  "predicciones": [
+    {
+      "archivo": "muestra-huggingface.jpg",
+      "segundos": 0.3972170999913942,
+      "top5": [
+        {
+          "etiqueta": "Volkswagen Bug 1967",
+          "porcentaje": 48.36
+        },
+        {
+          "etiqueta": "Volkswagen Beetle Hatchback 2012",
+          "porcentaje": 7.99
+        },
+        {
+          "etiqueta": "Volkswagen Beetle 1967",
+          "porcentaje": 7.6
+        },
+        {
+          "etiqueta": "Volkswagen Beetle 1969",
+          "porcentaje": 6.52
+        },
+        {
+          "etiqueta": "Volkswagen Bug 1968",
+          "porcentaje": 5.58
+        }
+      ]
+    }
+  ]
+}
